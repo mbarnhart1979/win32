@@ -20,7 +20,7 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Rasman\PPP\EAP\13
 
 ## Remarks
 
-This is a **REG\_BINARY** value.
+This is a **REG\_DWORD** value.
 
 
 
